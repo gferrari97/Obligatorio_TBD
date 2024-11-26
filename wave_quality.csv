@@ -1,0 +1,991 @@
+quality_id,region_id,date_id,wave_quality_score,comments,num_surfers,local_events
+692,8,19,9.7,Excelente,21,Ninguno
+378,6,48,4.5,Regular,22,Ninguno
+964,4,86,7.5,Muy Buena,12,Ninguno
+318,7,2,7.3,Muy Buena,9,Competencia
+860,3,7,9.2,Excelente,0,Ninguno
+636,7,28,7.2,Muy Buena,6,Ninguno
+777,4,49,6.7,Buena,4,Ninguno
+154,7,55,7.6,Muy Buena,7,Ninguno
+430,11,29,6.5,Buena,22,Ninguno
+431,7,77,2.2,Mala,7,Ninguno
+776,6,77,3.4,Regular,11,Ninguno
+799,3,59,7.6,Muy Buena,6,Ninguno
+443,1,46,6.1,Buena,13,Ninguno
+134,8,32,3.4,Mala,5,Competencia
+724,10,40,5.0,Regular,30,Ninguno
+657,10,6,0.5,Mala,5,Ninguno
+198,1,60,1.9,Mala,27,Ninguno
+618,10,32,6.0,Buena,5,Ninguno
+861,9,60,0.6,Mala,22,Ninguno
+916,5,14,9.8,Muy Buena,14,Competencia
+536,4,42,4.3,Regular,21,Ninguno
+800,2,47,0.7,Mala,30,Ninguno
+508,4,23,4.4,Regular,26,Ninguno
+16,11,48,6.2,Buena,26,Ninguno
+173,4,30,7.3,Muy Buena,15,Ninguno
+968,5,85,5.1,Buena,19,Ninguno
+56,8,18,9.0,Excelente,4,Competencia
+519,2,53,4.1,Regular,18,Competencia
+14,5,71,7.8,Excelente,17,Ninguno
+750,6,4,2.0,Mala,25,Ninguno
+587,11,88,9.5,Excelente,13,Competencia
+220,5,24,9.0,Excelente,3,Ninguno
+555,9,79,5.2,Buena,19,Ninguno
+56,2,1,8.9,Buena,25,Ninguno
+523,10,78,4.2,Regular,22,Ninguno
+254,1,1,5.8,Buena,25,Ninguno
+319,9,59,8.5,Muy Buena,11,Ninguno
+788,5,23,7.7,Muy Buena,14,Ninguno
+40,3,47,3.5,Regular,15,Ninguno
+420,10,52,3.1,Regular,30,Ninguno
+221,2,25,0.3,Mala,26,Ninguno
+626,4,6,6.0,Buena,25,Ninguno
+868,6,86,9.6,Excelente,5,Ninguno
+742,7,65,5.9,Buena,16,Ninguno
+648,6,80,1.2,Mala,26,Ninguno
+545,4,86,3.1,Regular,25,Ninguno
+362,9,43,8.4,Muy Buena,14,Ninguno
+950,9,30,1.8,Mala,27,Ninguno
+577,7,14,8.3,Muy Buena,19,Ninguno
+485,1,68,3.7,Regular,0,Ninguno
+364,11,48,1.4,Mala,23,Competencia
+324,9,9,8.5,Excelente,27,Ninguno
+930,5,9,7.4,Muy Buena,10,Ninguno
+953,9,61,9.9,Excelente,11,Ninguno
+75,10,5,7.9,Muy Buena,21,Ninguno
+306,11,61,8.5,Muy Buena,17,Ninguno
+465,2,22,10.0,Excelente,13,Ninguno
+651,7,73,4.1,Regular,16,Ninguno
+652,7,90,3.2,Mala,23,Ninguno
+555,6,88,9.9,Excelente,24,Ninguno
+801,3,20,7.0,Muy Buena,10,Ninguno
+742,9,90,3.5,Regular,15,Ninguno
+902,9,62,5.8,Buena,7,Ninguno
+980,3,29,9.3,Excelente,0,Ninguno
+23,11,65,8.7,Muy Buena,28,Ninguno
+351,8,4,1.5,Mala,29,Ninguno
+233,3,76,3.1,Regular,22,Competencia
+461,1,62,6.9,Buena,14,Ninguno
+945,7,82,6.3,Buena,20,Ninguno
+497,3,76,7.1,Muy Buena,21,Ninguno
+989,2,71,1.0,Mala,30,Ninguno
+615,9,69,2.3,Mala,3,Competencia
+738,9,2,9.2,Excelente,2,Ninguno
+476,11,65,0.4,Mala,2,Ninguno
+508,11,42,8.3,Muy Buena,8,Ninguno
+579,7,9,4.1,Mala,2,Ninguno
+648,8,75,5.1,Buena,11,Ninguno
+322,10,4,1.2,Mala,5,Ninguno
+447,2,24,3.8,Regular,8,Competencia
+990,1,88,6.6,Buena,23,Competencia
+48,2,53,4.4,Regular,15,Ninguno
+599,3,18,5.4,Buena,1,Ninguno
+757,4,54,4.8,Regular,24,Ninguno
+204,1,65,6.2,Buena,10,Ninguno
+775,5,1,7.6,Muy Buena,21,Ninguno
+129,2,57,1.3,Mala,30,Ninguno
+433,3,7,9.2,Excelente,29,Ninguno
+351,9,77,0.4,Mala,19,Ninguno
+60,5,14,5.5,Buena,5,Competencia
+762,5,65,6.9,Buena,16,Ninguno
+476,8,61,7.9,Buena,12,Ninguno
+211,1,24,8.1,Muy Buena,20,Ninguno
+96,5,46,5.2,Buena,14,Ninguno
+46,3,23,5.2,Buena,6,Competencia
+647,2,39,4.0,Regular,24,Ninguno
+289,1,32,5.9,Buena,30,Ninguno
+442,2,20,9.3,Muy Buena,13,Ninguno
+617,11,19,1.4,Mala,23,Ninguno
+731,2,25,1.6,Mala,21,Ninguno
+731,3,10,9.1,Excelente,22,Competencia
+842,3,89,4.9,Regular,9,Ninguno
+265,7,87,9.8,Excelente,23,Ninguno
+443,8,57,9.5,Excelente,25,Ninguno
+70,11,66,8.3,Muy Buena,19,Ninguno
+455,10,89,5.1,Buena,19,Ninguno
+188,3,86,8.8,Muy Buena,7,Ninguno
+654,7,46,1.0,Mala,17,Ninguno
+215,2,47,3.4,Regular,27,Ninguno
+184,2,10,6.7,Buena,22,Ninguno
+296,10,36,6.2,Buena,27,Ninguno
+51,9,70,1.5,Mala,4,Ninguno
+343,6,46,6.8,Buena,13,Ninguno
+794,4,77,2.5,Mala,17,Ninguno
+678,10,76,2.8,Mala,26,Ninguno
+603,8,68,8.7,Muy Buena,3,Ninguno
+742,6,81,2.7,Mala,2,Ninguno
+428,10,89,6.1,Regular,25,Ninguno
+186,10,67,3.7,Regular,20,Ninguno
+219,7,16,3.0,Regular,20,Ninguno
+573,5,43,5.8,Buena,17,Ninguno
+883,3,16,3.5,Regular,5,Ninguno
+505,11,47,7.6,Muy Buena,29,Ninguno
+980,5,22,6.9,Buena,3,Ninguno
+134,11,23,8.1,Muy Buena,15,Ninguno
+33,7,7,3.7,Regular,9,Competencia
+692,4,31,5.3,Buena,30,Ninguno
+227,2,13,5.8,Buena,20,Competencia
+949,6,62,6.3,Buena,21,Ninguno
+374,9,88,0.4,Mala,16,Ninguno
+826,11,84,8.2,Excelente,0,Ninguno
+128,4,86,9.3,Excelente,14,Competencia
+607,4,41,5.1,Buena,7,Competencia
+191,9,9,8.9,Excelente,25,Ninguno
+128,9,17,0.6,Mala,30,Ninguno
+508,4,45,9.5,Muy Buena,21,Ninguno
+150,9,33,2.8,Mala,1,Ninguno
+681,3,56,9.3,Excelente,6,Ninguno
+135,3,81,6.4,Buena,7,Ninguno
+447,4,52,7.4,Muy Buena,11,Ninguno
+748,11,32,2.2,Mala,1,Ninguno
+987,4,32,0.1,Mala,30,Ninguno
+494,9,4,4.9,Regular,18,Ninguno
+632,3,87,9.1,Excelente,14,Ninguno
+276,2,89,0.9,Mala,27,Ninguno
+922,4,36,7.2,Muy Buena,15,Ninguno
+10,7,45,1.4,Mala,5,Ninguno
+105,10,5,6.0,Buena,6,Ninguno
+578,2,59,7.4,Muy Buena,0,Ninguno
+126,10,56,7.3,Muy Buena,20,Ninguno
+736,1,80,4.4,Regular,21,Ninguno
+103,10,85,8.1,Buena,9,Ninguno
+690,5,61,2.3,Mala,15,Ninguno
+87,5,67,2.8,Mala,29,Ninguno
+594,6,25,8.3,Buena,11,Ninguno
+99,2,18,5.2,Buena,30,Ninguno
+269,6,76,2.1,Mala,1,Ninguno
+341,11,2,9.2,Excelente,11,Ninguno
+829,6,82,9.4,Excelente,12,Ninguno
+302,2,23,9.7,Excelente,0,Ninguno
+524,8,9,0.6,Mala,26,Ninguno
+966,3,71,6.4,Regular,21,Ninguno
+384,3,76,6.4,Buena,9,Ninguno
+418,6,75,2.8,Mala,10,Ninguno
+298,11,6,1.2,Mala,29,Competencia
+410,10,35,9.8,Excelente,14,Ninguno
+805,3,29,0.1,Mala,7,Ninguno
+48,4,69,3.2,Regular,22,Ninguno
+594,10,30,7.8,Muy Buena,9,Ninguno
+212,3,75,0.7,Mala,20,Ninguno
+56,1,77,7.5,Muy Buena,21,Ninguno
+160,10,24,0.3,Mala,29,Ninguno
+618,9,42,9.6,Excelente,19,Ninguno
+979,11,7,3.6,Regular,16,Competencia
+144,2,13,8.3,Muy Buena,7,Ninguno
+688,3,6,5.3,Buena,5,Ninguno
+593,6,74,2.0,Mala,30,Ninguno
+339,6,33,4.5,Regular,12,Competencia
+598,10,22,5.6,Buena,16,Ninguno
+913,7,87,9.5,Excelente,18,Ninguno
+202,11,22,6.9,Buena,29,Ninguno
+549,4,20,6.4,Buena,21,Ninguno
+243,4,38,7.5,Excelente,1,Ninguno
+59,1,51,4.0,Regular,6,Ninguno
+382,9,87,1.5,Mala,12,Competencia
+279,8,60,7.7,Muy Buena,7,Ninguno
+346,8,53,7.2,Excelente,17,Ninguno
+473,8,69,2.8,Mala,24,Ninguno
+652,5,67,1.7,Mala,8,Ninguno
+295,1,15,0.5,Mala,0,Ninguno
+461,6,20,8.7,Muy Buena,13,Competencia
+359,2,42,5.3,Regular,20,Ninguno
+11,4,19,3.4,Regular,3,Competencia
+539,2,26,3.5,Regular,14,Ninguno
+436,4,64,0.9,Mala,4,Ninguno
+478,10,26,5.8,Buena,21,Ninguno
+856,9,51,0.7,Mala,12,Competencia
+690,1,7,10.0,Excelente,28,Ninguno
+305,6,4,4.7,Regular,28,Ninguno
+761,11,76,8.5,Muy Buena,15,Ninguno
+576,5,1,4.0,Regular,9,Ninguno
+342,5,54,6.1,Buena,24,Ninguno
+193,4,85,3.1,Regular,19,Ninguno
+368,7,45,5.7,Buena,8,Ninguno
+608,4,60,2.2,Mala,0,Ninguno
+829,2,20,7.4,Muy Buena,12,Ninguno
+43,11,42,1.8,Mala,16,Ninguno
+606,6,37,5.6,Buena,28,Competencia
+647,2,32,8.3,Buena,25,Ninguno
+105,2,7,5.9,Buena,30,Competencia
+775,7,58,7.4,Muy Buena,24,Ninguno
+902,6,28,10.0,Excelente,24,Ninguno
+871,6,1,5.1,Buena,27,Ninguno
+610,6,65,8.4,Muy Buena,10,Ninguno
+563,5,3,3.8,Regular,20,Ninguno
+140,5,83,3.7,Regular,14,Ninguno
+331,10,41,5.3,Buena,4,Ninguno
+188,9,74,5.4,Buena,4,Ninguno
+653,5,33,6.6,Buena,27,Ninguno
+54,7,21,4.4,Regular,15,Ninguno
+896,7,22,6.0,Buena,6,Ninguno
+50,3,62,9.8,Excelente,18,Ninguno
+799,8,86,5.5,Buena,17,Competencia
+456,8,39,2.7,Mala,30,Ninguno
+892,6,82,2.2,Mala,4,Ninguno
+298,5,59,6.3,Buena,19,Ninguno
+966,2,39,4.0,Regular,17,Ninguno
+700,7,25,3.9,Regular,28,Ninguno
+618,5,13,6.1,Buena,16,Ninguno
+223,6,39,9.2,Excelente,1,Ninguno
+459,6,36,1.1,Mala,30,Competencia
+123,7,6,6.9,Buena,29,Ninguno
+94,7,70,5.5,Buena,17,Ninguno
+806,5,63,9.6,Excelente,3,Competencia
+24,3,22,10.0,Excelente,12,Competencia
+67,10,37,9.9,Excelente,26,Ninguno
+702,1,81,6.4,Buena,8,Ninguno
+975,10,27,2.3,Mala,8,Ninguno
+911,2,30,5.7,Buena,6,Ninguno
+200,8,2,9.0,Excelente,24,Ninguno
+361,5,13,8.6,Muy Buena,5,Ninguno
+88,6,88,4.1,Regular,5,Ninguno
+202,1,27,8.1,Buena,8,Competencia
+941,8,79,0.3,Mala,7,Ninguno
+792,10,38,0.8,Mala,4,Competencia
+465,2,7,9.4,Excelente,20,Ninguno
+695,1,72,7.6,Muy Buena,30,Ninguno
+5,4,1,6.4,Buena,19,Competencia
+466,2,65,6.7,Buena,21,Ninguno
+128,2,7,3.3,Regular,13,Ninguno
+404,5,38,6.0,Buena,27,Ninguno
+731,11,88,0.1,Mala,2,Ninguno
+292,5,63,1.0,Mala,10,Ninguno
+848,2,38,8.7,Muy Buena,11,Ninguno
+515,2,46,3.3,Regular,26,Ninguno
+599,10,77,0.8,Mala,28,Ninguno
+564,7,43,8.0,Muy Buena,30,Ninguno
+164,3,79,1.4,Mala,10,Ninguno
+462,11,88,1.2,Mala,19,Competencia
+970,3,44,2.3,Mala,27,Ninguno
+434,9,38,6.5,Buena,10,Ninguno
+86,11,52,7.7,Muy Buena,17,Ninguno
+580,5,75,8.3,Muy Buena,21,Ninguno
+320,5,87,3.0,Regular,20,Ninguno
+354,4,58,9.3,Muy Buena,21,Ninguno
+134,6,83,1.3,Mala,21,Ninguno
+820,9,20,5.3,Buena,8,Competencia
+698,7,42,5.3,Buena,6,Ninguno
+565,7,84,1.5,Mala,4,Ninguno
+2,5,78,7.0,Muy Buena,27,Ninguno
+510,3,75,1.4,Mala,5,Ninguno
+768,1,47,8.5,Muy Buena,22,Competencia
+84,11,78,5.2,Buena,14,Ninguno
+449,8,47,7.4,Muy Buena,7,Ninguno
+586,11,65,8.3,Muy Buena,18,Ninguno
+222,2,85,4.3,Regular,30,Ninguno
+742,4,81,1.7,Mala,18,Ninguno
+84,5,9,7.2,Muy Buena,9,Ninguno
+887,3,17,0.2,Mala,9,Ninguno
+65,9,17,3.7,Regular,19,Ninguno
+293,2,35,6.9,Buena,8,Ninguno
+413,1,4,1.0,Mala,1,Competencia
+126,5,18,2.5,Mala,24,Ninguno
+660,1,31,4.9,Regular,19,Ninguno
+438,11,79,7.3,Excelente,5,Ninguno
+722,10,27,7.0,Muy Buena,16,Ninguno
+317,8,69,2.8,Mala,17,Ninguno
+596,3,68,7.3,Muy Buena,13,Ninguno
+5,8,52,8.4,Muy Buena,2,Ninguno
+124,2,34,6.7,Regular,2,Ninguno
+805,6,21,0.8,Mala,22,Ninguno
+317,4,3,0.1,Mala,29,Ninguno
+348,5,87,8.0,Muy Buena,27,Ninguno
+89,5,80,7.9,Buena,16,Ninguno
+700,2,10,2.9,Mala,30,Ninguno
+541,4,18,2.2,Mala,22,Ninguno
+195,7,13,7.1,Muy Buena,2,Ninguno
+481,7,59,1.7,Mala,25,Ninguno
+243,3,52,2.3,Mala,7,Ninguno
+973,8,43,4.7,Regular,18,Ninguno
+174,5,53,2.7,Mala,24,Ninguno
+926,9,25,1.8,Mala,11,Ninguno
+732,2,9,2.4,Mala,21,Competencia
+923,7,54,7.1,Excelente,4,Competencia
+356,9,46,7.5,Muy Buena,7,Ninguno
+366,1,61,3.2,Regular,29,Ninguno
+631,10,36,3.0,Regular,3,Ninguno
+731,4,79,2.4,Mala,3,Competencia
+557,3,47,4.6,Regular,6,Ninguno
+759,2,80,0.2,Mala,1,Ninguno
+334,8,25,0.3,Mala,29,Ninguno
+736,10,81,4.8,Regular,10,Ninguno
+240,10,33,9.0,Excelente,30,Ninguno
+41,9,31,6.4,Buena,26,Ninguno
+759,8,51,0.9,Mala,9,Competencia
+187,9,14,3.0,Regular,24,Ninguno
+294,6,28,7.3,Muy Buena,19,Ninguno
+90,11,74,3.4,Regular,5,Ninguno
+898,4,56,2.2,Mala,15,Ninguno
+816,8,83,0.9,Mala,15,Ninguno
+619,7,87,7.0,Muy Buena,29,Ninguno
+809,2,41,0.2,Mala,4,Ninguno
+39,4,57,9.5,Excelente,1,Ninguno
+840,4,71,7.5,Muy Buena,19,Ninguno
+904,7,38,3.0,Mala,29,Ninguno
+349,8,24,7.1,Muy Buena,19,Ninguno
+222,2,4,0.0,Mala,1,Ninguno
+562,2,46,9.6,Excelente,0,Ninguno
+571,10,62,6.8,Buena,15,Ninguno
+125,6,1,9.4,Excelente,25,Ninguno
+718,8,74,5.8,Buena,18,Ninguno
+835,1,26,7.9,Muy Buena,2,Ninguno
+427,1,24,4.9,Regular,22,Ninguno
+211,2,82,8.8,Muy Buena,29,Ninguno
+224,11,2,2.5,Mala,17,Ninguno
+213,3,58,8.1,Excelente,8,Competencia
+602,7,62,3.0,Regular,4,Competencia
+822,2,90,9.6,Excelente,8,Ninguno
+452,8,18,3.6,Regular,27,Ninguno
+610,8,78,8.0,Muy Buena,27,Ninguno
+933,1,66,4.6,Regular,8,Ninguno
+614,11,79,8.6,Muy Buena,5,Ninguno
+966,10,27,3.1,Regular,14,Ninguno
+221,4,63,1.5,Mala,20,Ninguno
+926,2,75,5.5,Buena,14,Ninguno
+672,3,54,8.0,Muy Buena,6,Ninguno
+729,10,33,4.5,Mala,26,Ninguno
+950,3,37,3.4,Regular,6,Ninguno
+32,6,30,2.6,Mala,12,Ninguno
+943,2,21,6.7,Buena,24,Ninguno
+124,2,65,4.0,Regular,30,Ninguno
+831,1,8,4.2,Regular,2,Ninguno
+495,8,34,1.1,Mala,10,Ninguno
+592,1,88,6.5,Buena,13,Ninguno
+293,7,72,7.7,Excelente,1,Ninguno
+796,1,17,3.7,Regular,28,Ninguno
+733,3,1,1.3,Mala,3,Ninguno
+804,3,26,2.9,Mala,27,Ninguno
+400,2,8,6.3,Buena,23,Ninguno
+397,8,11,0.2,Mala,30,Ninguno
+116,7,25,6.7,Buena,11,Ninguno
+783,11,49,7.6,Muy Buena,26,Ninguno
+168,8,87,9.5,Muy Buena,23,Ninguno
+335,7,71,1.2,Mala,27,Ninguno
+831,3,59,2.5,Mala,16,Ninguno
+673,4,57,5.3,Buena,2,Ninguno
+575,10,7,1.8,Mala,23,Ninguno
+173,8,87,4.8,Regular,1,Competencia
+564,8,89,6.6,Buena,19,Ninguno
+357,1,39,4.2,Mala,3,Competencia
+329,7,66,5.1,Buena,0,Ninguno
+8,5,57,8.4,Muy Buena,11,Ninguno
+536,11,70,3.9,Regular,15,Ninguno
+221,10,63,8.3,Excelente,5,Ninguno
+202,1,47,7.2,Muy Buena,1,Competencia
+61,7,67,5.7,Buena,19,Ninguno
+807,6,33,8.3,Muy Buena,4,Ninguno
+541,10,47,3.7,Regular,9,Ninguno
+702,11,23,4.6,Regular,19,Competencia
+337,6,38,1.0,Mala,10,Ninguno
+165,11,34,8.5,Excelente,28,Ninguno
+480,1,42,3.6,Regular,4,Ninguno
+290,8,5,8.9,Muy Buena,7,Ninguno
+906,4,74,1.1,Mala,14,Ninguno
+168,11,59,2.2,Mala,20,Ninguno
+503,8,37,3.2,Regular,6,Ninguno
+813,3,28,7.4,Muy Buena,7,Ninguno
+686,8,55,4.5,Regular,14,Ninguno
+621,6,25,4.6,Regular,17,Ninguno
+204,8,62,2.2,Mala,27,Competencia
+240,1,61,4.4,Regular,24,Ninguno
+941,2,87,9.1,Excelente,9,Ninguno
+923,6,84,1.3,Mala,19,Ninguno
+516,8,64,8.1,Muy Buena,8,Ninguno
+689,3,45,4.7,Regular,18,Ninguno
+81,6,39,5.1,Buena,13,Ninguno
+49,2,78,0.5,Mala,11,Ninguno
+596,7,69,0.1,Mala,14,Ninguno
+538,11,75,4.1,Regular,29,Ninguno
+423,7,33,5.2,Buena,2,Ninguno
+618,1,63,3.0,Regular,29,Ninguno
+44,11,63,9.6,Excelente,5,Ninguno
+981,8,40,0.1,Mala,0,Competencia
+812,4,34,8.3,Muy Buena,11,Competencia
+933,3,56,0.3,Mala,28,Ninguno
+416,11,80,4.4,Regular,26,Ninguno
+908,8,48,3.7,Mala,25,Ninguno
+480,5,19,3.5,Regular,28,Ninguno
+874,3,69,9.1,Excelente,7,Ninguno
+948,6,71,2.4,Mala,6,Ninguno
+212,7,59,5.9,Buena,27,Ninguno
+114,9,9,6.7,Buena,24,Ninguno
+982,11,71,2.2,Mala,17,Ninguno
+55,9,42,9.7,Excelente,25,Ninguno
+568,8,86,9.8,Excelente,30,Ninguno
+279,3,88,6.1,Buena,6,Ninguno
+827,2,26,0.8,Mala,4,Ninguno
+870,2,63,7.6,Muy Buena,3,Ninguno
+89,9,40,4.5,Regular,23,Ninguno
+449,2,68,5.0,Buena,9,Ninguno
+283,11,87,5.8,Buena,21,Ninguno
+161,5,49,3.2,Regular,22,Competencia
+299,5,72,4.6,Regular,3,Ninguno
+493,10,65,4.0,Mala,28,Ninguno
+513,10,27,9.1,Excelente,12,Ninguno
+538,3,35,0.6,Mala,16,Ninguno
+164,1,35,8.3,Muy Buena,13,Ninguno
+403,4,31,6.3,Buena,10,Competencia
+600,3,28,7.1,Muy Buena,16,Ninguno
+94,6,13,9.6,Excelente,4,Ninguno
+658,3,79,10.0,Excelente,18,Ninguno
+918,10,37,1.9,Mala,8,Competencia
+759,7,54,1.5,Mala,7,Ninguno
+915,7,19,9.0,Excelente,29,Ninguno
+671,6,69,6.9,Buena,4,Ninguno
+975,4,88,3.0,Regular,2,Ninguno
+354,11,78,2.9,Mala,4,Ninguno
+903,6,18,9.5,Excelente,16,Ninguno
+175,11,7,1.5,Mala,23,Competencia
+757,1,88,6.3,Buena,28,Ninguno
+48,10,84,4.1,Regular,0,Ninguno
+736,5,50,6.1,Buena,9,Ninguno
+201,1,87,4.9,Regular,11,Ninguno
+673,1,81,9.4,Excelente,17,Ninguno
+726,11,60,8.4,Muy Buena,17,Competencia
+631,10,29,8.4,Muy Buena,13,Ninguno
+869,3,87,0.9,Mala,1,Ninguno
+274,5,31,1.5,Mala,8,Ninguno
+648,6,32,7.0,Muy Buena,12,Ninguno
+350,4,83,9.8,Excelente,20,Ninguno
+67,7,88,0.0,Mala,5,Ninguno
+953,5,32,5.6,Regular,17,Ninguno
+476,7,39,2.2,Mala,18,Ninguno
+849,10,43,8.8,Muy Buena,20,Ninguno
+868,7,13,7.9,Excelente,11,Ninguno
+747,2,52,1.0,Mala,22,Ninguno
+954,3,78,8.4,Muy Buena,10,Competencia
+193,11,62,8.1,Muy Buena,16,Ninguno
+918,9,22,7.6,Muy Buena,18,Ninguno
+585,1,54,3.2,Regular,27,Competencia
+511,1,80,2.6,Mala,1,Ninguno
+251,5,12,9.6,Excelente,21,Ninguno
+845,10,81,4.2,Regular,15,Competencia
+173,7,27,6.8,Buena,2,Ninguno
+239,7,46,2.0,Mala,0,Competencia
+823,4,3,6.8,Regular,17,Ninguno
+986,7,63,4.4,Mala,1,Ninguno
+769,7,82,4.4,Regular,9,Ninguno
+345,3,14,4.4,Regular,17,Competencia
+56,3,73,7.9,Muy Buena,3,Ninguno
+230,2,14,0.2,Mala,11,Ninguno
+759,7,24,5.5,Buena,29,Ninguno
+567,7,70,7.4,Muy Buena,8,Ninguno
+555,6,57,5.9,Buena,3,Ninguno
+770,10,60,6.5,Buena,29,Ninguno
+14,6,9,7.8,Excelente,29,Ninguno
+766,1,77,3.7,Regular,6,Ninguno
+143,4,59,3.0,Regular,28,Competencia
+375,5,37,9.9,Excelente,5,Competencia
+807,2,52,1.7,Mala,20,Ninguno
+591,7,40,9.9,Excelente,4,Competencia
+118,3,87,7.2,Muy Buena,13,Ninguno
+365,4,87,9.0,Excelente,19,Ninguno
+75,3,36,1.8,Mala,26,Ninguno
+905,9,17,4.5,Regular,4,Ninguno
+785,11,33,3.4,Regular,0,Ninguno
+745,11,30,3.6,Regular,2,Ninguno
+190,1,14,9.4,Excelente,14,Ninguno
+535,1,71,0.2,Mala,22,Ninguno
+22,3,79,6.2,Buena,20,Ninguno
+138,10,67,8.3,Muy Buena,21,Ninguno
+751,1,60,0.3,Mala,30,Ninguno
+819,7,45,8.6,Excelente,3,Ninguno
+492,4,69,5.4,Buena,17,Ninguno
+326,9,17,6.5,Buena,11,Ninguno
+962,11,31,3.3,Regular,18,Ninguno
+148,1,9,8.4,Muy Buena,20,Ninguno
+382,3,87,4.3,Regular,28,Competencia
+244,8,19,7.4,Muy Buena,9,Ninguno
+865,8,29,9.8,Excelente,17,Competencia
+368,5,78,4.4,Regular,30,Competencia
+290,5,15,7.0,Muy Buena,16,Ninguno
+144,8,1,5.8,Buena,6,Competencia
+344,6,21,7.6,Muy Buena,6,Ninguno
+449,2,15,9.3,Excelente,24,Ninguno
+483,2,60,7.1,Muy Buena,11,Ninguno
+853,2,70,9.6,Excelente,3,Ninguno
+423,5,87,0.5,Mala,23,Ninguno
+736,6,85,1.1,Mala,1,Ninguno
+831,8,47,1.2,Mala,11,Ninguno
+419,11,54,8.2,Muy Buena,29,Ninguno
+55,6,53,8.7,Muy Buena,8,Ninguno
+780,9,28,9.0,Excelente,25,Ninguno
+14,11,81,3.2,Regular,4,Ninguno
+127,7,59,7.7,Muy Buena,20,Ninguno
+694,6,37,0.7,Mala,15,Ninguno
+800,3,67,4.7,Regular,18,Ninguno
+454,8,75,1.7,Mala,24,Competencia
+184,11,53,1.3,Mala,6,Competencia
+491,9,27,9.8,Excelente,17,Ninguno
+168,10,53,8.5,Muy Buena,17,Ninguno
+983,8,51,5.2,Buena,16,Competencia
+537,10,76,1.9,Mala,2,Ninguno
+224,1,1,3.5,Regular,12,Ninguno
+665,9,3,7.7,Muy Buena,9,Ninguno
+83,5,79,1.3,Mala,13,Ninguno
+275,11,44,1.2,Mala,5,Competencia
+429,4,67,6.8,Buena,17,Competencia
+209,2,35,5.5,Buena,6,Ninguno
+205,1,30,5.3,Buena,15,Ninguno
+284,3,2,3.5,Regular,2,Ninguno
+526,10,63,0.9,Mala,16,Ninguno
+356,8,62,3.0,Regular,3,Ninguno
+204,6,70,6.1,Buena,2,Ninguno
+102,4,23,1.8,Mala,22,Ninguno
+367,10,31,1.3,Mala,17,Ninguno
+938,9,90,3.1,Regular,20,Ninguno
+493,1,41,3.1,Regular,17,Ninguno
+301,2,20,0.8,Mala,29,Ninguno
+678,4,18,2.0,Mala,18,Ninguno
+869,5,69,6.1,Buena,14,Ninguno
+217,3,18,1.6,Mala,19,Ninguno
+164,6,56,3.9,Regular,23,Ninguno
+913,6,76,2.6,Mala,18,Ninguno
+73,1,90,4.7,Regular,1,Ninguno
+866,6,31,0.3,Mala,16,Ninguno
+662,10,11,2.3,Mala,17,Ninguno
+379,10,14,7.3,Muy Buena,20,Ninguno
+672,10,21,7.9,Muy Buena,8,Ninguno
+45,8,8,1.6,Mala,7,Ninguno
+227,5,77,8.1,Muy Buena,26,Ninguno
+573,6,37,2.6,Mala,12,Ninguno
+958,7,21,1.0,Mala,2,Ninguno
+932,2,75,5.4,Regular,23,Ninguno
+49,7,41,2.2,Mala,16,Ninguno
+840,8,90,4.9,Regular,27,Ninguno
+26,7,11,8.3,Buena,16,Competencia
+116,11,20,8.9,Buena,26,Ninguno
+92,6,17,2.2,Mala,5,Ninguno
+920,4,31,5.2,Buena,9,Ninguno
+202,7,46,4.6,Regular,5,Ninguno
+260,5,48,2.8,Mala,21,Ninguno
+542,2,50,6.4,Buena,10,Ninguno
+629,10,28,7.6,Buena,27,Ninguno
+491,1,4,7.3,Muy Buena,15,Ninguno
+211,3,43,3.6,Regular,12,Competencia
+45,3,22,1.2,Mala,15,Ninguno
+252,10,6,7.9,Muy Buena,19,Ninguno
+597,5,21,3.2,Regular,25,Ninguno
+848,7,26,9.7,Excelente,12,Ninguno
+138,2,80,0.5,Mala,15,Ninguno
+590,7,13,6.0,Buena,12,Ninguno
+371,7,46,0.2,Mala,8,Ninguno
+644,6,72,9.1,Excelente,0,Ninguno
+965,10,40,9.6,Excelente,7,Ninguno
+801,4,44,2.7,Mala,25,Ninguno
+338,4,32,9.9,Excelente,18,Ninguno
+216,11,53,8.7,Buena,28,Ninguno
+521,9,66,4.3,Regular,19,Ninguno
+785,6,48,2.9,Mala,26,Ninguno
+341,7,48,9.0,Excelente,4,Competencia
+96,1,57,3.3,Regular,23,Ninguno
+863,10,28,5.3,Regular,3,Ninguno
+547,8,5,3.9,Regular,16,Ninguno
+818,7,33,7.8,Excelente,12,Ninguno
+714,11,39,5.3,Buena,17,Ninguno
+291,1,50,3.6,Regular,7,Ninguno
+521,6,27,7.5,Muy Buena,21,Ninguno
+273,7,69,3.1,Regular,5,Ninguno
+826,6,18,6.0,Buena,24,Ninguno
+47,10,29,8.7,Muy Buena,30,Ninguno
+103,4,24,3.7,Regular,28,Ninguno
+153,5,83,5.1,Buena,20,Competencia
+427,5,63,5.1,Buena,26,Ninguno
+951,3,90,4.3,Mala,23,Ninguno
+862,11,33,1.0,Mala,12,Ninguno
+462,10,74,5.4,Buena,25,Ninguno
+79,4,25,3.6,Regular,28,Ninguno
+663,8,74,3.3,Regular,19,Ninguno
+484,11,1,7.3,Muy Buena,26,Competencia
+580,10,34,8.5,Muy Buena,27,Ninguno
+111,7,20,2.6,Mala,23,Ninguno
+947,7,12,8.2,Muy Buena,2,Ninguno
+975,11,45,0.8,Mala,13,Ninguno
+766,8,27,1.6,Mala,15,Ninguno
+306,1,53,1.4,Mala,22,Competencia
+415,4,21,9.9,Excelente,12,Competencia
+64,4,64,6.6,Buena,5,Ninguno
+529,5,54,4.1,Mala,12,Ninguno
+801,2,57,4.7,Regular,11,Ninguno
+666,7,24,2.9,Mala,27,Ninguno
+286,10,58,5.8,Buena,0,Ninguno
+901,8,24,1.6,Mala,17,Competencia
+979,2,88,7.8,Muy Buena,29,Ninguno
+552,5,46,2.3,Mala,7,Ninguno
+684,2,54,1.4,Mala,26,Ninguno
+696,5,59,4.2,Mala,18,Ninguno
+216,11,39,0.3,Mala,21,Ninguno
+136,11,83,7.8,Muy Buena,30,Ninguno
+162,2,55,5.1,Buena,10,Ninguno
+733,11,89,9.6,Excelente,23,Ninguno
+24,2,7,5.4,Buena,23,Ninguno
+255,2,3,8.8,Muy Buena,24,Ninguno
+880,7,39,5.3,Buena,0,Ninguno
+564,7,58,7.6,Muy Buena,24,Ninguno
+415,5,72,6.4,Buena,17,Ninguno
+263,11,61,8.9,Muy Buena,9,Competencia
+360,8,82,4.2,Regular,5,Competencia
+699,2,80,3.9,Regular,21,Ninguno
+883,7,83,7.6,Muy Buena,9,Ninguno
+742,7,8,2.7,Mala,28,Ninguno
+599,10,1,5.7,Buena,3,Ninguno
+359,3,88,3.0,Regular,18,Ninguno
+799,1,33,6.5,Buena,21,Competencia
+283,7,63,2.8,Mala,17,Ninguno
+596,1,6,1.3,Mala,20,Ninguno
+78,3,69,7.8,Muy Buena,23,Ninguno
+366,4,66,6.4,Buena,4,Competencia
+815,4,85,3.9,Mala,18,Ninguno
+362,4,19,8.2,Muy Buena,4,Ninguno
+638,2,46,6.0,Buena,14,Ninguno
+512,9,34,3.9,Regular,19,Ninguno
+544,3,77,5.1,Buena,19,Ninguno
+666,9,31,9.5,Muy Buena,2,Ninguno
+464,3,76,2.5,Mala,0,Ninguno
+412,3,52,8.4,Muy Buena,17,Ninguno
+464,8,2,0.1,Mala,29,Ninguno
+338,11,77,6.1,Buena,13,Ninguno
+343,3,73,7.4,Muy Buena,1,Ninguno
+564,9,7,0.4,Mala,7,Ninguno
+39,4,9,4.6,Regular,21,Ninguno
+195,2,48,3.6,Regular,6,Ninguno
+793,4,29,6.4,Buena,30,Ninguno
+179,7,34,4.2,Regular,14,Competencia
+189,4,47,6.4,Buena,1,Ninguno
+697,10,49,2.4,Mala,19,Ninguno
+27,6,12,0.0,Mala,12,Ninguno
+410,2,79,2.9,Mala,3,Ninguno
+978,2,65,2.6,Mala,23,Ninguno
+383,4,27,4.3,Regular,26,Competencia
+574,11,74,2.6,Mala,12,Ninguno
+596,7,66,5.9,Buena,28,Ninguno
+164,11,86,9.8,Excelente,3,Ninguno
+841,4,74,1.0,Mala,29,Ninguno
+527,10,74,0.9,Mala,10,Ninguno
+375,9,6,7.1,Muy Buena,24,Ninguno
+286,2,26,6.6,Buena,23,Ninguno
+184,1,74,4.1,Regular,6,Ninguno
+269,10,10,3.1,Regular,18,Competencia
+692,6,2,9.4,Excelente,19,Ninguno
+19,3,45,2.7,Mala,16,Ninguno
+492,7,16,4.7,Regular,13,Competencia
+861,1,26,4.6,Regular,24,Ninguno
+568,1,21,5.1,Regular,25,Ninguno
+148,5,83,5.9,Regular,8,Ninguno
+115,8,60,7.9,Muy Buena,0,Competencia
+534,6,7,9.8,Excelente,27,Ninguno
+659,7,6,9.3,Excelente,8,Ninguno
+470,9,14,1.5,Mala,15,Ninguno
+717,7,35,2.4,Mala,5,Ninguno
+558,5,54,0.1,Mala,14,Ninguno
+164,9,1,0.5,Mala,21,Ninguno
+495,4,21,1.2,Mala,29,Ninguno
+936,4,22,7.3,Buena,27,Ninguno
+643,4,3,1.0,Mala,4,Ninguno
+362,6,8,4.3,Regular,16,Ninguno
+784,2,60,0.5,Mala,23,Ninguno
+766,3,86,4.1,Regular,6,Ninguno
+525,10,62,8.0,Muy Buena,1,Ninguno
+551,11,90,0.4,Mala,13,Ninguno
+738,1,83,5.2,Buena,23,Ninguno
+769,8,31,7.7,Muy Buena,1,Ninguno
+825,5,29,1.4,Mala,17,Ninguno
+823,1,28,2.5,Mala,28,Ninguno
+305,1,67,4.5,Regular,2,Ninguno
+609,8,12,7.9,Muy Buena,17,Competencia
+256,1,49,8.1,Muy Buena,24,Ninguno
+580,8,36,6.2,Buena,24,Ninguno
+283,2,18,8.2,Muy Buena,24,Ninguno
+559,6,27,4.5,Regular,10,Ninguno
+297,3,35,4.0,Regular,7,Ninguno
+752,5,11,4.7,Regular,13,Ninguno
+580,10,42,6.2,Regular,25,Ninguno
+933,4,78,1.6,Mala,20,Ninguno
+564,8,27,3.0,Regular,4,Ninguno
+693,9,22,4.1,Regular,12,Ninguno
+1,8,60,1.1,Mala,20,Ninguno
+391,6,1,2.8,Mala,12,Ninguno
+666,1,28,1.8,Mala,22,Ninguno
+253,11,74,4.9,Regular,13,Ninguno
+31,11,18,4.2,Regular,16,Ninguno
+443,1,69,4.1,Regular,7,Ninguno
+563,1,76,2.7,Mala,5,Ninguno
+454,3,48,5.2,Buena,19,Ninguno
+461,1,14,9.5,Muy Buena,16,Ninguno
+63,4,38,5.4,Buena,29,Ninguno
+467,5,29,9.4,Excelente,21,Ninguno
+585,7,12,8.7,Excelente,7,Ninguno
+86,5,81,3.9,Regular,16,Ninguno
+407,4,84,5.4,Buena,22,Ninguno
+737,1,58,6.4,Buena,27,Ninguno
+528,7,5,4.6,Regular,4,Ninguno
+690,6,36,8.3,Muy Buena,7,Competencia
+213,3,78,6.8,Buena,28,Ninguno
+393,11,57,1.2,Mala,9,Ninguno
+806,10,82,7.5,Muy Buena,27,Competencia
+323,3,49,3.6,Regular,27,Ninguno
+963,6,16,8.0,Muy Buena,30,Ninguno
+72,2,61,2.3,Mala,30,Ninguno
+764,7,14,1.1,Mala,17,Ninguno
+245,5,7,7.2,Muy Buena,26,Ninguno
+115,6,51,8.4,Muy Buena,21,Ninguno
+921,3,54,3.7,Regular,7,Ninguno
+316,10,23,3.7,Regular,6,Ninguno
+962,6,8,9.6,Excelente,22,Ninguno
+308,10,30,6.3,Buena,6,Ninguno
+887,3,45,4.5,Regular,12,Ninguno
+873,1,48,5.3,Buena,19,Ninguno
+280,2,22,5.5,Buena,19,Ninguno
+747,7,1,0.5,Mala,10,Ninguno
+429,7,90,2.4,Mala,6,Ninguno
+706,5,1,6.3,Buena,4,Ninguno
+481,9,22,3.3,Regular,30,Ninguno
+150,8,61,1.0,Mala,23,Ninguno
+850,4,22,9.5,Excelente,10,Ninguno
+463,6,17,1.3,Mala,13,Competencia
+895,5,9,2.2,Mala,1,Ninguno
+68,8,61,6.8,Buena,27,Ninguno
+475,1,68,1.6,Mala,13,Ninguno
+154,5,10,8.2,Muy Buena,6,Ninguno
+816,3,11,1.5,Mala,8,Ninguno
+22,11,73,6.8,Regular,13,Ninguno
+625,6,88,8.6,Muy Buena,15,Ninguno
+990,9,4,7.6,Muy Buena,21,Ninguno
+236,5,11,8.3,Muy Buena,24,Ninguno
+574,11,47,4.1,Mala,6,Ninguno
+762,2,43,6.8,Buena,20,Ninguno
+935,7,52,7.6,Muy Buena,30,Competencia
+852,5,89,9.5,Excelente,30,Ninguno
+694,2,28,9.5,Excelente,8,Ninguno
+499,7,62,0.4,Mala,5,Ninguno
+663,3,46,0.0,Mala,27,Ninguno
+476,4,32,8.7,Muy Buena,6,Competencia
+731,10,74,5.1,Buena,4,Competencia
+277,2,41,7.8,Muy Buena,18,Ninguno
+139,4,30,5.9,Buena,12,Ninguno
+560,1,52,8.7,Muy Buena,28,Ninguno
+879,11,69,0.2,Mala,17,Ninguno
+636,11,33,3.8,Regular,27,Ninguno
+960,7,74,2.7,Mala,5,Competencia
+754,7,86,9.6,Muy Buena,21,Ninguno
+414,5,67,4.8,Regular,20,Ninguno
+361,8,73,9.3,Excelente,28,Ninguno
+649,7,28,1.3,Mala,10,Ninguno
+304,4,79,6.1,Regular,22,Ninguno
+870,4,33,9.0,Excelente,13,Ninguno
+109,1,36,9.2,Excelente,20,Ninguno
+832,2,25,7.9,Muy Buena,15,Ninguno
+429,1,88,2.6,Mala,22,Ninguno
+709,4,54,0.1,Mala,18,Ninguno
+692,6,78,4.9,Regular,18,Ninguno
+59,5,59,9.1,Excelente,27,Ninguno
+677,3,28,0.3,Mala,11,Ninguno
+243,7,76,9.4,Excelente,11,Ninguno
+726,5,6,4.9,Regular,12,Ninguno
+885,2,63,4.6,Regular,3,Ninguno
+829,3,89,2.9,Mala,6,Ninguno
+458,5,82,2.9,Mala,11,Competencia
+168,4,29,4.4,Regular,23,Ninguno
+45,6,40,6.8,Buena,26,Ninguno
+632,4,73,1.1,Mala,15,Ninguno
+448,11,16,8.3,Buena,13,Ninguno
+265,1,18,10.0,Excelente,14,Ninguno
+662,2,55,7.8,Muy Buena,16,Competencia
+110,6,77,9.5,Excelente,25,Competencia
+468,4,42,4.1,Regular,7,Ninguno
+127,8,88,2.2,Mala,14,Competencia
+93,5,76,4.9,Regular,13,Ninguno
+231,2,51,3.8,Regular,15,Ninguno
+335,11,75,2.1,Mala,28,Ninguno
+801,6,33,9.4,Excelente,19,Ninguno
+680,5,87,7.2,Muy Buena,18,Competencia
+817,4,42,9.5,Excelente,30,Ninguno
+235,2,1,6.5,Buena,4,Ninguno
+425,3,17,6.9,Buena,11,Ninguno
+87,5,67,5.9,Buena,11,Ninguno
+824,8,78,4.0,Regular,0,Ninguno
+589,1,1,5.9,Buena,28,Ninguno
+870,5,35,1.4,Mala,13,Competencia
+355,8,45,5.9,Buena,24,Ninguno
+241,4,5,1.4,Mala,18,Ninguno
+720,2,37,5.0,Buena,6,Ninguno
+325,4,67,4.8,Regular,9,Ninguno
+522,1,5,8.1,Muy Buena,1,Competencia
+222,11,81,7.1,Muy Buena,30,Ninguno
+743,2,21,7.9,Muy Buena,9,Ninguno
+833,6,87,5.2,Buena,12,Ninguno
+805,3,6,8.3,Muy Buena,23,Competencia
+52,3,86,2.5,Mala,0,Ninguno
+287,1,44,8.9,Buena,19,Ninguno
+420,1,10,3.3,Regular,16,Ninguno
+511,6,50,8.3,Muy Buena,18,Ninguno
+57,6,28,6.2,Buena,26,Ninguno
+328,1,5,5.3,Buena,10,Ninguno
+561,11,54,2.7,Mala,2,Competencia
+76,10,17,2.5,Mala,4,Ninguno
+295,5,21,1.6,Mala,13,Ninguno
+319,4,9,5.6,Buena,11,Ninguno
+281,1,13,5.4,Buena,22,Ninguno
+591,9,65,6.6,Buena,26,Ninguno
+81,9,23,9.1,Excelente,10,Ninguno
+233,2,37,9.6,Excelente,29,Ninguno
+757,6,51,0.5,Mala,24,Ninguno
+756,3,12,7.4,Muy Buena,26,Ninguno
+190,5,79,1.8,Mala,18,Ninguno
+460,2,41,7.4,Muy Buena,11,Ninguno
+648,5,81,3.6,Regular,22,Ninguno
+896,11,32,2.8,Mala,18,Ninguno
+100,3,40,1.0,Mala,4,Ninguno
+562,2,68,7.9,Buena,27,Ninguno
+314,11,13,7.5,Excelente,14,Competencia
+145,2,8,8.4,Muy Buena,14,Ninguno
+79,2,33,8.0,Muy Buena,29,Ninguno
+747,3,8,5.9,Buena,23,Ninguno
+266,8,24,8.0,Excelente,11,Ninguno
+802,6,8,5.4,Buena,21,Ninguno
+545,10,63,2.9,Mala,15,Ninguno
+92,5,59,8.6,Muy Buena,7,Ninguno
+85,10,62,2.3,Mala,12,Ninguno
+394,2,2,0.8,Mala,27,Ninguno
+930,3,61,0.4,Mala,10,Ninguno
+381,7,31,6.1,Buena,12,Ninguno
+719,9,70,3.9,Mala,6,Ninguno
+733,5,22,2.3,Mala,21,Competencia
+923,11,55,2.1,Mala,13,Ninguno
+611,3,28,7.0,Excelente,14,Ninguno
+419,10,80,5.1,Buena,7,Competencia
+802,8,80,3.3,Regular,19,Ninguno
+625,8,73,1.7,Mala,10,Ninguno
+298,6,39,3.1,Regular,19,Ninguno
+581,7,20,1.5,Mala,21,Ninguno
+173,4,50,4.1,Regular,21,Ninguno
+252,1,31,1.2,Mala,25,Ninguno
+374,9,27,2.1,Mala,4,Ninguno
+61,11,25,7.1,Muy Buena,2,Ninguno
+929,4,13,9.1,Excelente,15,Ninguno
+270,2,16,7.8,Buena,17,Ninguno
+645,7,86,2.0,Mala,14,Ninguno
+14,5,50,7.2,Muy Buena,19,Ninguno
+176,7,26,5.5,Buena,26,Ninguno
+641,3,17,4.3,Regular,10,Ninguno
+323,4,15,0.5,Mala,3,Ninguno
+927,7,87,2.6,Mala,6,Ninguno
+97,10,72,8.2,Buena,28,Ninguno
+81,9,64,3.8,Regular,26,Ninguno
+416,4,74,1.9,Mala,3,Ninguno
+690,8,44,4.3,Regular,13,Ninguno
+502,1,39,6.4,Buena,5,Ninguno
+187,1,44,4.9,Regular,2,Ninguno
+411,3,63,9.6,Excelente,29,Ninguno
+740,6,77,5.9,Buena,4,Ninguno
+367,11,82,8.6,Muy Buena,19,Ninguno
+911,11,56,2.3,Mala,18,Ninguno
+662,11,45,9.6,Excelente,10,Ninguno
+754,9,22,7.6,Buena,2,Competencia
+505,3,42,9.4,Excelente,19,Ninguno
+867,3,40,0.3,Mala,1,Ninguno
+808,9,30,4.4,Regular,23,Ninguno
+633,9,1,8.9,Muy Buena,26,Ninguno
+599,2,20,9.8,Excelente,28,Ninguno
+5,2,34,3.1,Regular,28,Ninguno
+393,3,8,5.6,Buena,4,Ninguno
+72,1,12,1.5,Mala,25,Competencia
+808,11,40,0.1,Mala,11,Ninguno
+444,5,48,1.6,Mala,8,Ninguno
+658,9,33,2.9,Mala,19,Ninguno
+473,1,83,9.6,Excelente,10,Ninguno
+932,11,24,5.1,Buena,13,Ninguno
+358,6,8,1.1,Mala,18,Competencia
+223,1,18,1.2,Mala,21,Ninguno
+445,6,42,3.7,Regular,28,Ninguno
+767,3,16,2.6,Mala,28,Ninguno
+108,3,11,3.1,Regular,7,Ninguno
+376,9,61,6.5,Buena,19,Ninguno
+647,4,37,4.6,Regular,9,Ninguno
+415,9,37,7.4,Muy Buena,6,Ninguno
+71,7,85,6.7,Buena,24,Ninguno
+188,6,1,5.2,Buena,23,Ninguno
+224,5,52,9.8,Excelente,18,Ninguno
+591,4,33,5.4,Buena,16,Ninguno
+958,1,59,2.6,Mala,30,Ninguno
+740,5,19,2.0,Mala,10,Ninguno
+226,11,1,3.0,Regular,29,Ninguno
+163,5,46,5.2,Buena,13,Ninguno
+154,1,79,2.4,Mala,10,Ninguno
+480,2,82,2.3,Mala,3,Ninguno
+232,6,70,5.3,Buena,30,Ninguno
+674,11,24,1.1,Mala,18,Ninguno
+149,8,65,0.2,Mala,14,Competencia
+200,11,76,3.4,Regular,17,Ninguno
+403,7,13,2.4,Mala,0,Ninguno
+878,10,44,2.6,Mala,29,Competencia
+665,2,72,3.2,Regular,19,Ninguno
+238,3,1,2.2,Mala,15,Ninguno
+943,9,44,4.4,Regular,10,Competencia
+167,9,29,9.8,Excelente,14,Ninguno
+34,3,35,8.2,Muy Buena,13,Ninguno
+355,3,14,1.3,Mala,19,Ninguno
+112,8,8,9.2,Excelente,13,Ninguno
+596,3,1,4.0,Regular,15,Ninguno
+815,6,23,9.8,Excelente,11,Ninguno
+315,3,52,4.7,Regular,28,Ninguno
+942,10,6,3.9,Regular,20,Ninguno
+884,9,68,7.2,Muy Buena,2,Ninguno
+759,11,30,0.0,Mala,3,Ninguno
+177,4,49,9.3,Excelente,9,Competencia
+573,2,55,2.6,Mala,18,Competencia
+529,5,87,7.8,Muy Buena,3,Ninguno
+329,1,14,0.2,Mala,7,Ninguno
+854,1,3,1.3,Mala,7,Ninguno
+618,5,89,7.5,Muy Buena,18,Competencia
+657,8,51,1.3,Mala,8,Ninguno
+164,7,37,5.5,Buena,14,Ninguno
+461,9,64,3.2,Regular,25,Ninguno
+434,8,23,6.9,Buena,5,Ninguno
+871,4,85,4.3,Mala,10,Competencia
+864,5,38,9.5,Muy Buena,23,Ninguno
+48,9,2,1.5,Mala,22,Ninguno
+840,4,61,3.7,Regular,13,Competencia
+167,5,44,1.7,Mala,17,Ninguno
+769,5,46,0.7,Mala,3,Ninguno
+787,3,80,8.9,Buena,12,Ninguno
+556,10,32,7.4,Muy Buena,22,Ninguno
+749,9,15,4.8,Regular,26,Competencia
+822,4,52,0.2,Mala,24,Ninguno
+488,2,37,9.7,Excelente,11,Ninguno
+586,3,51,0.4,Mala,13,Ninguno
+885,11,60,1.9,Mala,26,Ninguno
+352,6,71,8.1,Muy Buena,25,Ninguno
+930,6,43,0.9,Mala,7,Ninguno
+373,5,6,3.6,Regular,4,Ninguno
+86,6,63,5.9,Buena,27,Ninguno
+829,7,89,4.1,Regular,24,Ninguno
+980,11,37,3.3,Regular,28,Ninguno
+402,1,74,7.8,Muy Buena,12,Ninguno
+232,5,80,0.3,Mala,7,Ninguno
+645,10,15,4.6,Regular,7,Ninguno
+501,2,65,7.6,Muy Buena,17,Ninguno
+967,8,70,3.7,Regular,1,Ninguno
+975,11,42,4.0,Regular,7,Ninguno
+552,8,39,1.1,Mala,23,Ninguno
+156,10,55,7.7,Excelente,6,Ninguno
+185,1,50,3.7,Regular,17,Ninguno
+589,10,51,4.0,Regular,28,Ninguno
+65,4,70,1.2,Mala,26,Ninguno
+849,11,27,5.3,Buena,11,Competencia
+187,10,76,3.0,Regular,30,Ninguno
+193,1,37,8.6,Muy Buena,11,Ninguno
+64,11,25,5.4,Buena,6,Ninguno
+199,4,35,6.5,Buena,1,Ninguno
+40,5,12,0.8,Mala,13,Ninguno
+181,7,52,5.0,Buena,20,Ninguno
+154,5,66,7.7,Muy Buena,12,Ninguno
+115,5,9,9.2,Excelente,14,Ninguno
+44,6,87,9.7,Excelente,29,Competencia
+214,1,87,1.1,Mala,26,Ninguno
+173,4,65,6.5,Buena,28,Ninguno
+796,9,75,6.5,Regular,10,Ninguno
+85,8,43,7.9,Muy Buena,4,Ninguno
+252,7,65,8.0,Muy Buena,28,Ninguno
+542,5,16,4.0,Regular,5,Ninguno
